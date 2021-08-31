@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "Cadastro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h5>Cadastro de Produto</h5>
+<p>Preencha o formulário abaixo:</p>
+<hr />
+
+<form>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>Nome do Produto:</label>
+            <input type="text" name="nome" class="form-control" />
+            <br />
+
+            <label>Preço:</label>
+            <input type="text" name="preco" class="form-control" />
+            <br />
+
+            <label>Quantidade:</label>
+            <input type="text" name="quantidade" class="form-control" />
+            <br />
+
+        </div>
+
+        <div class="col-md-8">
+
+            <label>Foto do produto:</label>
+            <input type="file" name="foto" class="form-control" />
+            <br />
+
+            <label>Descrição do produto:</label>
+            <textarea name="descricao" class="form-control"></textarea>
+
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <input type="submit" value="Cadastrar Fornecedor"
+                   class="btn btn-success" />
+        </div>
+    </div>
+
+</form>
+

@@ -1,0 +1,72 @@
+﻿IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+
+GO
+
+CREATE TABLE [EMPRESA] (
+    [IDEMPRESA] uniqueidentifier NOT NULL,
+    [RAZAOSOCIAL] nvarchar(100) NOT NULL,
+    [NOMEFANTASIA] nvarchar(150) NOT NULL,
+    [CNPJ] nvarchar(25) NOT NULL,
+    CONSTRAINT [PK_EMPRESA] PRIMARY KEY ([IDEMPRESA])
+);
+
+GO
+
+CREATE TABLE [FUNCIONARIO] (
+    [IDFUNCIONARIO] uniqueidentifier NOT NULL,
+    [NOME] nvarchar(150) NOT NULL,
+    [CPF] nvarchar(11) NOT NULL,
+    [MATRICULA] nvarchar(20) NOT NULL,
+    [DATAADMISSAO] date NOT NULL,
+    [DATANASCIMENTO] date NOT NULL,
+    [IDEMPRESA] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_FUNCIONARIO] PRIMARY KEY ([IDFUNCIONARIO]),
+    CONSTRAINT [FK_FUNCIONARIO_EMPRESA_IDEMPRESA] FOREIGN KEY ([IDEMPRESA]) REFERENCES [EMPRESA] ([IDEMPRESA]) ON DELETE CASCADE
+);
+
+GO
+
+CREATE UNIQUE INDEX [IX_EMPRESA_CNPJ] ON [EMPRESA] ([CNPJ]);
+
+GO
+
+CREATE UNIQUE INDEX [IX_FUNCIONARIO_CPF] ON [FUNCIONARIO] ([CPF]);
+
+GO
+
+CREATE INDEX [IX_FUNCIONARIO_IDEMPRESA] ON [FUNCIONARIO] ([IDEMPRESA]);
+
+GO
+
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20210602222853_Initial', N'3.1.15');
+
+GO
+
+CREATE TABLE [USUARIO] (
+    [IDUSUARIO] uniqueidentifier NOT NULL,
+    [NOME] nvarchar(150) NOT NULL,
+    [EMAIL] nvarchar(100) NOT NULL,
+    [SENHA] nvarchar(40) NOT NULL,
+    [DATACADASTRO] datetime NOT NULL,
+    CONSTRAINT [PK_USUARIO] PRIMARY KEY ([IDUSUARIO])
+);
+
+GO
+
+CREATE UNIQUE INDEX [IX_USUARIO_EMAIL] ON [USUARIO] ([EMAIL]);
+
+GO
+
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20210611221141_addUsuario', N'3.1.15');
+
+GO
+

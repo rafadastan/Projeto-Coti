@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7jmATxdvFrtNLZC5VfenCyOqw85E979hnAHRFuf0Xod5KFauBWJG9Te/xXmTGGSvpzr5Yu+mQooPmhSlIlBKw==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto Coti\\Projeto02\\Aula02\\Projeto02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raphael.assis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

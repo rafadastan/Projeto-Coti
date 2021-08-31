@@ -1,0 +1,19 @@
+﻿INSERT INTO USUARIO(
+	IDUSUARIO,
+	NOME,
+	EMAIL,
+	SENHA,
+	DATACADASTRO)
+VALUES(
+	NEWID(),
+	'Sergio Mendes',
+	'sergio.coti@gmail.com',
+	CONVERT(
+	VARCHAR(32), 
+	HASHBYTES('MD5', 'adminadmin'),
+	2),
+	GETDATE())
+GO
+
+SELECT * FROM USUARIO
+GO

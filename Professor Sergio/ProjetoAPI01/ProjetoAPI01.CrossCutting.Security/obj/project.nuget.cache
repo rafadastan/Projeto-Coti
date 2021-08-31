@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fkrbZ0pjyBW7j2gC9mxs5/pqiQ41GNaVMbD7fkzxQbXWkK/0I/9E0wsGBBx36KkSAy0h7/x25ULqnIw3F94Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper Noite SQS 02\\Aula 24 - 14.06.21\\ProjetoAPI01\\ProjetoAPI01.CrossCutting.Security\\ProjetoAPI01.CrossCutting.Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.1\\microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.1\\microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.1\\system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\bin\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.deps.json
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\bin\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.dll
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\bin\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.pdb
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\obj\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.AssemblyInfoInputs.cache
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\obj\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.AssemblyInfo.cs
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\obj\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\obj\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.dll
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\obj\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.pdb
+C:\Projeto Coti\ProjetoAPI01\ProjetoAPI01.CrossCutting\obj\Debug\netcoreapp3.1\ProjetoAPI01.CrossCutting.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.exe
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.deps.json
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.runtimeconfig.json
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.runtimeconfig.dev.json
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.dll
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.pdb
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.csprojAssemblyReference.cache
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.AssemblyInfoInputs.cache
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.AssemblyInfo.cs
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.dll
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.pdb
+C:\Users\raphael.assis\Documents\Coti Informatica\Curso .Net C# - Refazendo\Projeto01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.genruntimeconfig.cache

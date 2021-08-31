@@ -1,0 +1,9 @@
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.deps.json
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\obj\Debug\netcoreapp3.1\ProjetoMVC01.Domain.AssemblyInfoInputs.cache
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\obj\Debug\netcoreapp3.1\ProjetoMVC01.Domain.AssemblyInfo.cs
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\obj\Debug\netcoreapp3.1\ProjetoMVC01.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\obj\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\obj\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Domain\obj\Debug\netcoreapp3.1\ProjetoMVC01.Domain.csprojAssemblyReference.cache

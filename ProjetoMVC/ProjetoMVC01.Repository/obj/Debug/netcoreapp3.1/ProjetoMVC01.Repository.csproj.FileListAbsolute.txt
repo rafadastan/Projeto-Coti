@@ -1,0 +1,12 @@
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Projeto Coti\ProjetoMVC\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
